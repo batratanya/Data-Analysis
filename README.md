@@ -1,8 +1,8 @@
 ## Dataset Used :
-- IPL Data
-- Delhi Weather Data
+- IPL Data ( https://www.kaggle.com/nowke9/ipldata )
+- Delhi Weather Data ( https://www.kaggle.com/mahirkukreja/delhi-weather-data )
 
-### Data is analysed and visualized using :
+### Data analysis and visualization is carried out using :
 - Pandas
 - Numpy
 - Matplotlib
